@@ -11,4 +11,4 @@ Arrancar el proyecto
 
 
 En el fichero Documentacion/documentacion.txt  están explicados todos los edpoint , con el respectivo body y la respuesta que retorna la API
-Crear una carpeta public\uploads para almacenar las imagenes (la ruta esta definida alli) ya que github la borra
+
